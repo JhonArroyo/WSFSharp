@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q6SXxJLOqxQgdJmQOx7nX/P638TRBdNs2mlNXEq65eX/HcajwCkxN4lA6RyvfDnSW/kRNj39zsQfb0ytzVPBbw==",
+  "success": true,
+  "projectFilePath": "E:\\repos\\WSFSharp\\WSFSharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhona\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
